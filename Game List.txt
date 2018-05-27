@@ -1,2 +1,6 @@
 				Game List:
 1.Jetpack Joyride
+2.Pong 
+3.Snake 
+4.Agar.io multiplayer
+5..........
